@@ -5,7 +5,7 @@
 This is set of utilites which are used by the Confluent Docker images. It has two command line utilities which are used for testing if a Zookeeper or Kafka cluster is healthy and ready to accept client requests.
 
 
-##How does it work ?
+##How does it work ??
 
 **zk-ready**
 
